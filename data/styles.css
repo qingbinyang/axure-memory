@@ -55,9 +55,18 @@
 }
 .ellipse {
 }
+.heading_1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
 }
 ._自由编辑 {
+}
+._图片 {
 }
