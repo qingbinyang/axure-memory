@@ -70,3 +70,12 @@
 }
 ._图片 {
 }
+._形状 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:410;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
